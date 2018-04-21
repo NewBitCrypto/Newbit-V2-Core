@@ -31,7 +31,7 @@ Usage
 Clone the repository:
 
 ```bash
-	git clone https://github.com/forknote/cryptonote-generator.git generator
+	git clone https://github.com/NewBitCrypto/Newbit-V2-Core.git generator
 	cd generator
 ```
 
@@ -63,9 +63,9 @@ By default, the cryptonote generator is not using multithread. I strongly recomm
 	bash generator.sh -f config_example.json -c '-j3'
 ```
 
-To generate NewBit:
+To generate NewBit in 1 step! (linux only):
 ```
-	git clone https://github.com/NewBitCrypto/cryptonote-generator.git generator && cd generator
+	git clone https://github.com/NewBitCrypto/Newbit-V2-Core.git generator && cd generator
 	bash install_dependencies.sh && bash generator.sh -f configs/bytecoin-v2/config_example.json
 ```
 
@@ -73,8 +73,7 @@ To generate NewBit:
 
 ### Community / Support
 
-* IRC (freenode)
-  * Support / general / development discussion join #dashcoin: [https://webchat.freenode.net/?channels=#dashcoin](https://webchat.freenode.net/?channels=#dashcoin)
+
 * [CryptoNote Forum](https://forum.cryptonote.org/)
 
 
@@ -97,12 +96,8 @@ Extensions must be located in *extensions* folder.
 
 Donations
 ---------
-* BTC: `1EYiA8o1KsDZxMHXvptxXyaVwuhTVNBMFp`
-* DSH: <sup><sub>`D3z2DDWygoZU4NniCNa4oMjjKi45dC2KHUWUyD1RZ1pfgnRgcHdfLVQgh5gmRv4jwEjCX5LoLERAf5PbjLS43Rkd8vFUM1m`</sup></sub>
-* BCN: <sup><sub>`21YR5mw5BF2ah3yVE3kbhkjDwvuv21VR6D7hnpm4zHveDsvq5WEwyTxXLXNwtU5K4Pen89ZZzJ81fB3vxHABEUJCAhxXz2v`</sup></sub>
-* XMR: <sup><sub>`47LEJyhCgNFcoz6U8x7tUk6LEHe38NobAfn4ou8d588jY5nddvgEANLMMcwxsbfbkJRw4xPwcG583Gq189hjusShEyk9FXz`</sup></sub>
+* BTC: `37DnPKJqKXHmCo3xmcCSbZSrKMEDTVf8xv`
 
-*Donate XMR if you want to XMR version to be developed*
 
 Additional credits
 ------------------
